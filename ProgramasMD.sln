@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fechoReflexivo", "fechoReflexivo\fechoReflexivo.csproj", "{63D47022-910C-4B7D-AAA5-E316A2F3458B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fechoTransitivo", "fechoTransitivo\fechoTransitivo.csproj", "{26EA18A6-1967-41C2-8C14-C61ED7C843E5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "verificaAssimetrica", "verificaAssimetrica\verificaAssimetrica.csproj", "{82BC2F99-3C9D-442E-8A68-0384606037C2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "verificaInducao", "verificaInducao\verificaInducao.csproj", "{3219AC46-9DF4-4CEC-8E86-F0A5B1A2BD66}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "verificaSimetrica", "verificaSimetrica\verificaSimetrica.csproj", "{F19891FB-0459-4EB6-95A7-3EDA55AB4E4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63D47022-910C-4B7D-AAA5-E316A2F3458B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63D47022-910C-4B7D-AAA5-E316A2F3458B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63D47022-910C-4B7D-AAA5-E316A2F3458B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63D47022-910C-4B7D-AAA5-E316A2F3458B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26EA18A6-1967-41C2-8C14-C61ED7C843E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26EA18A6-1967-41C2-8C14-C61ED7C843E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26EA18A6-1967-41C2-8C14-C61ED7C843E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26EA18A6-1967-41C2-8C14-C61ED7C843E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82BC2F99-3C9D-442E-8A68-0384606037C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82BC2F99-3C9D-442E-8A68-0384606037C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82BC2F99-3C9D-442E-8A68-0384606037C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82BC2F99-3C9D-442E-8A68-0384606037C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3219AC46-9DF4-4CEC-8E86-F0A5B1A2BD66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3219AC46-9DF4-4CEC-8E86-F0A5B1A2BD66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3219AC46-9DF4-4CEC-8E86-F0A5B1A2BD66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3219AC46-9DF4-4CEC-8E86-F0A5B1A2BD66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F19891FB-0459-4EB6-95A7-3EDA55AB4E4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F19891FB-0459-4EB6-95A7-3EDA55AB4E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F19891FB-0459-4EB6-95A7-3EDA55AB4E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F19891FB-0459-4EB6-95A7-3EDA55AB4E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
